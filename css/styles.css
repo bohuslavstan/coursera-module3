@@ -1,0 +1,17 @@
+.navbar {
+    background-color: gray;
+}
+
+.nav-item {
+    text-align: center;
+    border: solid black 1px;
+}
+
+.navbar-nav {
+    border: solid black 1px;
+}
+
+#long_text {
+    background-color: lightblue;
+    margin: 0 20px;
+}
